@@ -1,0 +1,39 @@
+{
+    "contactData": [
+        {
+          "id": 1,
+          "firstName": "Budi",
+          "lastName": "Doremi",
+          "age": "25",
+          "photo": "./images/avatar.jpg"
+        },
+        {
+          "id": 2,
+          "firstName": "Dadang",
+          "lastName": "Konelo",
+          "age": "17",
+          "photo": "./images/avatar.jpg"
+        },
+        {
+          "id": 3,
+          "firstName": "Japri",
+          "lastName": "Sasongko",
+          "age": "47",
+          "photo": "./images/avatar.jpg"
+        },
+        {
+          "id": 4,
+          "firstName": "Asep",
+          "lastName": "Junaidi",
+          "age": "30",
+          "photo": "./images/avatar.jpg"
+        },
+        {
+          "id": 5,
+          "firstName": "Uh",
+          "lastName": "Bambang",
+          "age": "16",
+          "photo": "./images/avatar.jpg"
+        }
+      ]
+}
