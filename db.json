@@ -30,10 +30,31 @@
         },
         {
           "id": 5,
-          "firstName": "Uh",
+          "firstName": "Joko",
           "lastName": "Bambang",
           "age": "16",
           "photo": "./images/avatar.jpg"
-        }
+        },
+        {
+            "id": 6,
+            "firstName": "Dewi",
+            "lastName": "Purnama",
+            "age": "26",
+            "photo": "./images/avatar.jpg"
+          },
+          {
+            "id": 7,
+            "firstName": "Bram",
+            "lastName": "Skuy",
+            "age": "45",
+            "photo": "./images/avatar.jpg"
+          },
+          {
+            "id": 8,
+            "firstName": "Dedy",
+            "lastName": "Aja",
+            "age": "42",
+            "photo": "./images/avatar.jpg"
+          }
       ]
 }
